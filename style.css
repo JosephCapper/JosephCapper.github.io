@@ -5,6 +5,11 @@
 
 .header h1{
   font-family: Koulen;
+  font-size: 40px;
+}
+
+.header p{
+  font-family: 'Work Sans';
 }
 
 body{
