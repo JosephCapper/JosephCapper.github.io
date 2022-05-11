@@ -7,8 +7,10 @@
     background-image: url("./pics/top%20background.jpg");
     background-size: cover;
     text-align: center;
+    /*
     height: 700px;
     width: 100%;
+    */
 }
 
 body{
@@ -37,6 +39,11 @@ body{
     font-size: 20px;
     opacity: 50%;
     font-family: 'Work Sans';
+    border: 3px solid white;
+    position: relative;
+    top: 50px;
+    width: 400px;
+    margin: 0 auto;
 }
 
 footer  {
