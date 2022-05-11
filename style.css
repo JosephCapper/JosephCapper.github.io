@@ -12,6 +12,11 @@
     /*width: 100%;*/
 }
 
+header h1{
+    background-color: #cccccc;
+    background-image: radial-gradient(blue, yellow, green);
+}
+
 body{
     background-color: white;
     font-family: 'Georgia', sans-serif;
@@ -20,18 +25,18 @@ body{
 }
 
 #main {
-  margin: 0 auto;
-  padding: 40px;
-  text-align: center;
-  width: 500px;
-  height: 1000px;
-  overflow: scroll;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    width: 500px;
+    height: 1000px;
+    overflow: scroll;
 }
 
 #grad1 {
-  height: 250px;
-  background-color: #cccccc;
-  background-image: radial-gradient(blue, yellow, green);
+    height: 250px;
+    background-color: #cccccc;
+    background-image: radial-gradient(blue, yellow, green);
 }
 
 .about-me{
