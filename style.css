@@ -7,9 +7,8 @@
     background-image: url("./pics/top%20background.jpg");
     background-size: cover;
     text-align: center;
-    background-position: bottom center;
-    height: 100px;
-    width: 700%;
+    height: 700px;
+    width: 100%;
 }
 
 body{
