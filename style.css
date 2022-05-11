@@ -38,7 +38,7 @@ body{
 }
 
 #grad1 {
-    height: 260px;
+    height: 360px;
     background-color: #cccccc;
     background-image: radial-gradient(blue, yellow, green);
 }
