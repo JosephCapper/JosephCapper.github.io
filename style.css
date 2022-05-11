@@ -50,6 +50,10 @@ ul {
     list-style-position: inside;
 }
 
+h3{
+    text-transform: uppercase;
+}
+
 .about-me{
     font-size: 30px;
     font-family: 'Work Sans';
@@ -68,6 +72,11 @@ ul {
     width: 400px;
     margin: 0 auto;
     */
+}
+
+.essay{
+    text-align: left;
+    font-weight: bold;
 }
 
 footer  {
