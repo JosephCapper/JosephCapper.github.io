@@ -16,7 +16,6 @@ h1{
     color: Azure;
     background-color: #cccccc;
     background-image: radial-gradient(DarkViolet, green, red, blue);
-    
     margin: 0 auto;
     padding: 0px;
     text-align: center;
@@ -39,7 +38,7 @@ body{
 }
 
 #grad1 {
-    height: 360px;
+    height: 280px;
     background-color: #cccccc;
     background-image: radial-gradient(blue, yellow, green);
 }
