@@ -39,7 +39,7 @@ body{
 }
 
 #grad1 {
-    height: 250px; 
+    height: 300px; 
     background-color: #cccccc;
     background-image: radial-gradient(HoneyDew, green, darkgreen);
 }
