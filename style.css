@@ -10,7 +10,6 @@
 
 body{
     font-family: Georgia;
-    background-image: radial-gradient(blue, yellow);
 }
 
 #main {
@@ -20,6 +19,12 @@ body{
   width: 400px;
   height: 1000px;
   overflow: scroll;
+}
+
+#grad1 {
+  height: 200px;
+  background-color: #cccccc;
+  background-image: radial-gradient(red, yellow);
 }
 
 .about-me{
