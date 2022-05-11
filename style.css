@@ -5,6 +5,8 @@
 
 .header {
     background-image: url("./pics/top%20background.jpg");
+    background-color: ivory;
+    background-position: center;
     background-size: cover;
     text-align: center;
     height: 400px;
