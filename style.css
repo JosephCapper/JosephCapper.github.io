@@ -15,7 +15,8 @@
 h1{
     color: Azure;
     background-color: #cccccc;
-    background-image: radial-gradient(blue, yellow, green);
+    background-image: radial-gradient(DarkViolet, green, red, blue);
+    
     margin: 0 auto;
     padding: 0px;
     text-align: center;
