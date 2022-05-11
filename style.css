@@ -17,7 +17,7 @@ h1{
     background-color: #cccccc;
     background-image: radial-gradient(blue, yellow, green);
     margin: 0 auto;
-    padding: 40px;
+    padding: 0px;
     text-align: center;
 }
 
@@ -52,6 +52,7 @@ body{
     top: 50px;
     width: 800px;
     margin: 0 auto;
+    padding: 5px;
 }
 
 footer  {
