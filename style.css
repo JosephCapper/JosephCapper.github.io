@@ -10,6 +10,8 @@
 
 body{
     font-family: Georgia;
+    background-color: #cccccc;
+    background-image: radial-gradient(blue, yellow);
 }
 
 #main {
